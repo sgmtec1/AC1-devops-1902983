@@ -1,0 +1,9 @@
+SANDRA GONCALVES MIGUEL  RA 1902983
+sandra.miguel@aluno.faculdadeimpacta.com.br
+
+Teste: deverá descrever como testar os requisitos do sistema.
+TESTE: verificação de que a implementação atende o que foi especificado.
+
+*****************************************************************************************
+Testar o cadastro dos clientes e o ambiente de pagamento. 
+Testar o cadastro do carro voador.
