@@ -1,0 +1,13 @@
+SANDRA GONCALVES MIGUEL  RA 1902983
+sandra.miguel@aluno.faculdadeimpacta.com.br
+
+
+Arquitetura e Design: deverá descrever, no arquivo design.txt, a quantidade e os nomes dos componentes de software e a forma de fazer os links entre eles.
+DESIGN: definição da estrutura e dos componentes do produto para atender as especificações. (como fazer)
+
+*************************************************************************************************************************************
+Para atender o solicitado pelo cliente, desenvolveremos uma arquitetura que entregara os seguintes componentes:
+- um software com cadastros dos carros disponíveis para serem alugados e sua disponibilidade.
+- Cadastro do cliente e estrutura de pagamento.
+
+

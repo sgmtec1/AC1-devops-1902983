@@ -1,0 +1,12 @@
+SANDRA GONCALVES MIGUEL  RA 1902983
+sandra.miguel@aluno.faculdadeimpacta.com.br
+
+Operação: deverá descrever como implantar e operar o sistema em um arquivo chamado operação.txt.
+OPERAÇÃO: implantação/instalação do que foi desenvolvido para ser utilizado e acompanhamento desta utilização.
+
+****************************************************************************************************
+A implantação e instalação do sistema do carro voador, sere feita distribuição de app pelas plataformas como GooglePlay e Apple.
+Os carros teram uma IHM para interagir com os usuarios que será instalada diretamente por um funcionário da empresa em cada carro voador.
+
+
+

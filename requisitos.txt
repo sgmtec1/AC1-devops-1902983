@@ -1,0 +1,11 @@
+SANDRA GONCALVES MIGUEL  RA 1902983
+sandra.miguel@aluno.faculdadeimpacta.com.br
+
+Requisitos:
+Atividade - A empresa X quer fazer viagens com um carro voador
+	que transporta pessoas com limite de preço de até
+	10 dolares por viagem. 
+	Elabore o sistema para esta operacao. 
+
+*****************************************************************************************
+O solicitado pelo cliente.

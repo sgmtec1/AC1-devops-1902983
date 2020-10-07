@@ -1,0 +1,8 @@
+SANDRA GONCALVES MIGUEL  RA 1902983
+sandra.miguel@aluno.faculdadeimpacta.com.br
+
+Atividade - A empresa X quer fazer viagens com um carro voador
+	que transporta pessoas com limite de preço de até
+	10 dolares por viagem. 
+	Elabore o sistema para esta operacao. 
+Crie 5 arquivos, requisito.txt, design.txt, codigo.txt, testes.txt e operacao.txt, sendo um arquivo para cada etapa do ciclo de desenvolvimento do sistema.

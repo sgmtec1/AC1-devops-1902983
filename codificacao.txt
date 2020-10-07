@@ -1,0 +1,10 @@
+SANDRA GONCALVES MIGUEL  RA 1902983
+sandra.miguel@aluno.faculdadeimpacta.com.br
+
+
+Codificação: deverá descrever como desenvolver os componentes especificados em design.txt para atender o que está em requisitos.txt.
+CODIFICAÇÃO: desenvolvimento dos componentes em uma ou várias linguagens de programação.
+
+******************************************************************************************************
+O desenvolvimento do software será feito em ambiente WEB e contara com um aplicativo que emulara o software.
+
